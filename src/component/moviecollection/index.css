@@ -1,0 +1,76 @@
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li{
+    font-size: 1.4em;
+    font-weight: 600;
+    margin: 10px;
+}
+.border{
+   height:3px;
+   width:115px;
+   position: relative;
+   bottom: 20px;
+   left:47px;
+   background: linear-gradient(273.64deg, #35C3F3 11.27%, #8B9FE8 36.72%, #E681D8 61.72%, #FFA9A4 82.79%, #FED2CE 107.29%, #FED2CE 107.29%);
+    /* -webkit-background-clip: text; */
+    -webkit-text-fill-color: transparent;
+    /* background-clip: text; */
+    text-fill-color: transparent;
+}
+.single{
+ display:inline;
+ margin-right:10px
+}
+.singletext{
+     display:inline;
+     position:relative;
+     top:5px;
+     right:20px
+}
+.fade{
+    color: #6a6a6a;
+}
+.arrowimg{
+    height: 13px;
+    width: 20px;
+    margin-right: 3px;
+}
+.viewbutton button{
+    border-radius: 4px;
+    
+    border: 1px solid #d5d2d2;
+    padding: 7px 10px;
+    background-color: white;
+}
+.mininav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.mininav input{
+    height: 35px;
+    width: 250px;
+    margin-top: 30px;
+    margin-right: 130px;
+    font-size: 1em;
+    padding: 7px 30px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+.imglogo{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top:16px;
+    
+}
+.eachrow{
+    text-align: left;
+    padding-left: 20px;
+    
+}
+.thirdbodyheading{
+    margin-top: 40px;
+}

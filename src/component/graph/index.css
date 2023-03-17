@@ -1,0 +1,21 @@
+.heading2{
+    padding: 20px 0px;
+ /* margin-left: 120px; */
+ display: flex;
+ justify-content: space-between;
+}
+h3{
+    font-size: 1.8em;
+}
+.main1{
+    margin-left: 120px;
+}
+.heading2 button{
+    height: 35px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-right: 120px;
+    background-color: white;
+    border: 1px solid #aaa8a8;
+    margin-top: 20px;
+}

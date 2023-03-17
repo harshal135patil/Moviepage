@@ -1,0 +1,40 @@
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 24px 0px 0px ;
+    
+}
+.navbar ul li{
+    margin: 0px 10px;
+    color: #6A6A6A;
+    font-size: 20px;
+    
+}
+.navbar{
+    display: flex;
+    background-color: black;
+}
+.navbar h2{
+    margin: 26px 0px 26px 128px;
+    background: linear-gradient(273.64deg, #35C3F3 11.27%, #8B9FE8 36.72%, #E681D8 61.72%, #FFA9A4 82.79%, #FED2CE 107.29%, #FED2CE 107.29%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.heading{
+  
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height:24px;
+}
+.icons{
+    margin-right: 112px;
+}
+.navlinks{
+    width:1500px;
+    display: flex;
+    justify-content: space-between;
+}
